@@ -1,0 +1,5 @@
+pytest~=8.3.3
+selene==2.0.0rc7
+selenium~=4.26.1
+jsonschema
+requests
